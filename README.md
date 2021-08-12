@@ -1,5 +1,5 @@
 # Interview Scheduler
-
+Interview Scheduler is aa app for creating appointments for interviewa.
 ## Setup
 
 Install dependencies with `npm install`.
@@ -21,3 +21,9 @@ npm test
 ```sh
 npm run storybook
 ```
+## Dependencies:
+axios
+jest
+cypress
+@testing-library/react-hooks
+react-test-renderer
